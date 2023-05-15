@@ -1,12 +1,12 @@
 {
-  "name": "darkness",
+  "name": "aphera",
   "version": "1.0.0",
-  "description": "DarknessCode Slash Bot Altyapisi",
+  "description": "Ravens Slash Bot Altyapisi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "JustMoon",
+  "author": "wixua",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
